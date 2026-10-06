@@ -3,7 +3,7 @@
 
 ---
 
-## 👤 Identitas Praktikan
+## Identitas Praktikan
 - **Nama Lengkap:** Muhammad Fathan Ramdani
 - **NIM:** H1D024026
 - **Shift Awal:** Shift G
@@ -12,13 +12,13 @@
 
 ---
 
-## 📱 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 Aplikasi **PokéDex** ini intinya buat ngeliat daftar Pokémon sama detail-detailnya. Datanya ngambil langsung (live) dari API publik [PokéAPI](https://pokeapi.co). 
 Pas awal buka, kita bisa langsung nyari nama Pokémon atau scroll aja ke bawah karena udah ada fitur infinite scroll-nya, jadi datanya bakal ke-load terus. Terus kalau salah satu Pokémon diklik, bakal masuk ke halaman detail yang nampilin gambar, elemen/tipe, status, tinggi, berat, sama ability-nya. Di pojok atas juga ada tombol buat masuk ke halaman profil mahasiswa.
 
 ---
 
-## 🛠️ Penjelasan Teknis
+## Penjelasan Teknis
 
 ### 1. Spesifikasi & Tech Stack
 - **Bahasa:** Kotlin (versi 2.0.21)
@@ -50,7 +50,7 @@ app/src/main/java/com/example/pokemonapp/
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
+## Tangkapan Layar (Screenshots)
 
 | Home Screen | Detail Screen | About Screen |
 |:---:|:---:|:---:|
@@ -58,7 +58,7 @@ app/src/main/java/com/example/pokemonapp/
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 1. **Syaratnya:**
    - Laptop udah keinstall Android Studio.
